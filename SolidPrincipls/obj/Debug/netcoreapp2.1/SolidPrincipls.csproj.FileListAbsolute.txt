@@ -1,0 +1,13 @@
+D:\Anurag\SolidPrincipls\SolidPrincipls\bin\Debug\netcoreapp2.1\SolidPrincipls.deps.json
+D:\Anurag\SolidPrincipls\SolidPrincipls\bin\Debug\netcoreapp2.1\SolidPrincipls.runtimeconfig.json
+D:\Anurag\SolidPrincipls\SolidPrincipls\bin\Debug\netcoreapp2.1\SolidPrincipls.runtimeconfig.dev.json
+D:\Anurag\SolidPrincipls\SolidPrincipls\bin\Debug\netcoreapp2.1\SolidPrincipls.dll
+D:\Anurag\SolidPrincipls\SolidPrincipls\bin\Debug\netcoreapp2.1\SolidPrincipls.pdb
+D:\Anurag\SolidPrincipls\SolidPrincipls\obj\Debug\netcoreapp2.1\SolidPrincipls.csproj.AssemblyReference.cache
+D:\Anurag\SolidPrincipls\SolidPrincipls\obj\Debug\netcoreapp2.1\SolidPrincipls.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anurag\SolidPrincipls\SolidPrincipls\obj\Debug\netcoreapp2.1\SolidPrincipls.AssemblyInfoInputs.cache
+D:\Anurag\SolidPrincipls\SolidPrincipls\obj\Debug\netcoreapp2.1\SolidPrincipls.AssemblyInfo.cs
+D:\Anurag\SolidPrincipls\SolidPrincipls\obj\Debug\netcoreapp2.1\SolidPrincipls.csproj.CoreCompileInputs.cache
+D:\Anurag\SolidPrincipls\SolidPrincipls\obj\Debug\netcoreapp2.1\SolidPrincipls.dll
+D:\Anurag\SolidPrincipls\SolidPrincipls\obj\Debug\netcoreapp2.1\SolidPrincipls.pdb
+D:\Anurag\SolidPrincipls\SolidPrincipls\obj\Debug\netcoreapp2.1\SolidPrincipls.genruntimeconfig.cache
